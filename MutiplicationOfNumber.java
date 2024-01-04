@@ -2,7 +2,7 @@ package LoopsAssignments;
 
 import java.util.Scanner;
 
-public class MutiplicationOfN {
+public class MutiplicationOfNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number : ");
